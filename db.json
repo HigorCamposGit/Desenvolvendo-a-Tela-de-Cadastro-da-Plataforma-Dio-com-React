@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Higor de Campos",
+      "email": "higor@email.com",
+      "senha": "123456",
+      "avatar": "https://avatars.githubusercontent.com/u/87200582?v=4"
+    },
+    {
+      "id": "2",
+      "name": "José da Silva",
+      "email": "jose@email.com",
+      "senha": "123456",
+      "avatar": "https://github.com/HigorCamposGit.png"
+    },
+    {
+      "id": "3",
+      "name": "Maria Almeida",
+      "email": "maria@email.com",
+      "senha": "123456",
+      "avatar": "https://github.com/HigorCamposGit.png"
+    }
+  ]
+}
