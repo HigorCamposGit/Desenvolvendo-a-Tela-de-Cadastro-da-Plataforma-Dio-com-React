@@ -47,6 +47,6 @@ A estilização foi totalmente construída utilizando **`styled-components`**, p
 ---
 
 <p align="center">
-  <img src="[https://github.com/HigorCamposGit.png](https://github.com/HigorCamposGit.png)" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
-  <b>Projeto melhorado por:</b> <a href="[https://github.com/HigorCamposGit](https://github.com/HigorCamposGit)">Higor de Campos</a>
+  <img src="https://github.com/HigorCamposGit.png" width="100px" style="border-radius: 50%;" alt="Foto de Higor de Campos" /><br />
+  <b>Porjeto atualizado por:</b> <a href="https://github.com/HigorCamposGit">Higor de Campos</a>
 </p>
